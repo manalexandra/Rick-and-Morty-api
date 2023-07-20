@@ -1,0 +1,42 @@
+.character-name {
+text-decoration: none;
+color: #fff;
+font-family: Schoolbell;
+font-size: 30px;
+}
+
+.character-name:hover {
+color: #7ffa67;
+}
+
+a {
+text-decoration: none !important;
+}
+    
+.alive {
+color: #7ffa67;
+}
+
+.dead {
+color: red;
+}
+
+.status {
+color: #fff;
+}
+
+.location {
+color: #9f9f9f;
+}
+
+.location-2 {
+color: #fff;
+}
+
+.first-episode {
+color: #9f9f9f;
+}
+
+.first-episode-2 {
+color: #fff;
+}

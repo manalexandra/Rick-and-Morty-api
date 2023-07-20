@@ -1,0 +1,17 @@
+.episode-name {
+    text-decoration: none;
+    color: #fff;
+    font-family: Schoolbell;
+    font-size: 30px;
+  }
+  
+.episode-name:hover {
+color: #7ffa67;
+}
+
+.episode-details {
+text-decoration: none;
+color: #fff;
+font-family: Schoolbell;
+font-size: 30px;
+}
