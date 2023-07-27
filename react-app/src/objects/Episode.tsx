@@ -4,4 +4,5 @@ interface Episode {
   id: number;
   air_date: string;
   episode: string;
+  created: string;
 }
