@@ -7,8 +7,14 @@ interface Character {
   episode: string[];
   species: string;
   gender: string;
+  origin: Origin;
+  created: string;
 }
 
 interface Location {
+  name: string;
+}
+
+interface Origin {
   name: string;
 }
