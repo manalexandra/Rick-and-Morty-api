@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "bourbon": "^7.3.0",
+    "classnames": "^2.5.1",
     "compass-sass-mixins": "^0.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
